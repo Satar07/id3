@@ -1,0 +1,20 @@
+{
+    "features": ["age", "income", "student", "credit_rating"],
+    "target": "buys_computer",
+    "data": [
+        {"age": "youth", "income": "high", "student": "no", "credit_rating": "fair", "buys_computer": "no"},
+        {"age": "youth", "income": "high", "student": "no", "credit_rating": "excellent", "buys_computer": "no"},
+        {"age": "middle_aged", "income": "high", "student": "no", "credit_rating": "fair", "buys_computer": "yes"},
+        {"age": "senior", "income": "medium", "student": "no", "credit_rating": "fair", "buys_computer": "yes"},
+        {"age": "senior", "income": "low", "student": "yes", "credit_rating": "fair", "buys_computer": "yes"},
+        {"age": "senior", "income": "low", "student": "yes", "credit_rating": "excellent", "buys_computer": "no"},
+        {"age": "middle_aged", "income": "low", "student": "yes", "credit_rating": "excellent", "buys_computer": "yes"},
+        {"age": "youth", "income": "medium", "student": "no", "credit_rating": "fair", "buys_computer": "no"},
+        {"age": "youth", "income": "low", "student": "yes", "credit_rating": "fair", "buys_computer": "yes"},
+        {"age": "senior", "income": "medium", "student": "yes", "credit_rating": "fair", "buys_computer": "yes"},
+        {"age": "youth", "income": "medium", "student": "yes", "credit_rating": "excellent", "buys_computer": "yes"},
+        {"age": "middle_aged", "income": "medium", "student": "no", "credit_rating": "excellent", "buys_computer": "yes"},
+        {"age": "middle_aged", "income": "high", "student": "yes", "credit_rating": "fair", "buys_computer": "yes"},
+        {"age": "senior", "income": "medium", "student": "no", "credit_rating": "excellent", "buys_computer": "no"}
+    ]
+}
